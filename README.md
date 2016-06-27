@@ -17,7 +17,7 @@ I have the dimensions at 1500x2400. Suggestions are appreciated.
 
 ## opf
 1. Know your title `<dc:title>`*string*`</dc:title>`
-2. determine [language](http://www.w3.org/International/articles/language-tags) `<dc:language>`*code from link*`</dc:language>`
+2. determine [language](http://r12a.github.io/apps/subtags/) `<dc:language>`*code from link*`</dc:language>`
 3. meta name is cover attribute
 4. know your manifest [element](http://www.idpf.org/2007/opf/OPF_2.0_final_spec.html#Section2.3)
 5. table of content as [ncx](http://www.niso.org/workrooms/daisy/Z39-86-2005.html#NCX)
