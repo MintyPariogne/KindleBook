@@ -3,6 +3,7 @@
   <metadata>
   </metadata>
   <manifest>
+  <item id="cimage" media-types="image/jpeg" href="cover.jpg" properties="cover-image"/>
   </manifest>
   <spine>
   </spine>
