@@ -16,5 +16,9 @@ Used the title tag for the title. Used the meta tag with the cover location as c
 I have the dimensions at 1500x2400. Suggestions are appreciated.
 
 ## opf
+1. Know your title `<dc:title>`*string*`</dc:title>`
+2. determine [language](http://www.w3.org/International/articles/language-tags) `<dc:language>`*code from link*</dc:language>
+3. meta name is cover attribute
+
 ## ncx
 ## toc
